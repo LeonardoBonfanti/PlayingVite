@@ -23,7 +23,7 @@
                     :name="1"
                     :done="step > 1"
                 >
-                    <q-item-label class="step_label q-py-sm">Torne-se um partner Dayway 🤝</q-item-label>
+                    <q-item-label class="step_label q-py-sm">Torne-se um partner 🤝</q-item-label>
 
                     <div class="q-pt-lg q-px-xl">
                         <q-item-label>Email empresarial</q-item-label>
